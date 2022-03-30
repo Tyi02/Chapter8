@@ -1,0 +1,7 @@
+* * * //Draw the top -> #'s equal tp the W
+*   * //Draw the sides ->
+*   *
+* * * //Draw the top again
+
+3 x 4
+W X H
